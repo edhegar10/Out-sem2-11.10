@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\bin\Debug\netcoreapp2.0\11.10_Quarta.deps.json
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\bin\Debug\netcoreapp2.0\11.10_Quarta.runtimeconfig.json
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\bin\Debug\netcoreapp2.0\11.10_Quarta.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\bin\Debug\netcoreapp2.0\11.10_Quarta.dll
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\bin\Debug\netcoreapp2.0\11.10_Quarta.pdb
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\obj\Debug\netcoreapp2.0\11.10_Quarta.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\obj\Debug\netcoreapp2.0\11.10_Quarta.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\obj\Debug\netcoreapp2.0\11.10_Quarta.AssemblyInfo.cs
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\obj\Debug\netcoreapp2.0\11.10_Quarta.dll
+c:\Users\FIC\Desktop\CursoBackend\Outubro\sem2\11.10_Quarta\Out-sem2-11.10\obj\Debug\netcoreapp2.0\11.10_Quarta.pdb
